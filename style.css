@@ -580,6 +580,7 @@ body.light-mode .line{
 .csharp:hover { border-color: #752091; box-shadow: 0 0 15px rgba(148, 38, 175, 0.2); }
 .php:hover { border-color: #777bb4; box-shadow: 0 0 15px rgba(119, 123, 180, 0.2); }
 .sql:hover { border-color: #00758f; box-shadow: 0 0 15px rgba(0, 117, 143, 0.2); }
+.github:hover { border-color: #e34f26; box-shadow: 0 0 15px rgba(227, 79, 38, 0.2); }
 
 /* ==========================================================================
    LIGHT MODE ADAPTATION FOR SEPARATE SKILL CARDS
